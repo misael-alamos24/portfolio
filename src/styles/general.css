@@ -1,0 +1,97 @@
+.a{
+    color: orange
+}
+.a:visited{
+    color: orangered;
+}
+.flex{
+    display: flex;
+}
+.block{
+    display: block;
+}
+.width90{
+    width: 90%;
+}
+.width100{
+    width: 100%;
+}
+.width30{
+    width: 30%;
+}
+.between{
+    justify-content: space-between;
+}
+.evenly{
+    justify-content: space-evenly;
+}
+.around{
+    justify-content: space-around;
+}
+.paddingx16{
+    padding: 0 16px;
+}
+.paddingx8{
+    padding: 0 8px;
+}
+.padding16{
+    padding: 16px;
+}
+.padding8{
+    padding: 8px;
+}
+.paddingb0{
+    padding-bottom: 0;
+}
+.font-l{
+    font-size: large;
+}
+.bold{
+    font-weight: bold;
+}
+.text-start{
+    text-align: start;
+}
+.margin-auto{
+    margin: auto;
+}
+.center{
+    justify-content: center;
+}
+.margin8{
+    margin: 8px ;
+}
+.margin4{
+    margin: 4px ;
+}
+.pointer{
+    cursor: pointer;
+}
+.border{
+    border: 1px solid gray;
+}
+.radius{
+    border-radius: 8px;
+}
+.marginx16{
+    margin: auto 16px;
+}
+.padding8{
+    padding: 8px;
+}
+.bold{
+    font-weight: bold;
+}
+.center-start{
+    text-align: start;
+}
+.serif{
+    font-family: serif;
+}
+
+.code {
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  /* font-weight: weight; */
+  font-style: normal;
+}
