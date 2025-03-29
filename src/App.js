@@ -24,6 +24,7 @@ function App({inner}) {
           Learn React
         </a> */}
       {/* </header> */}
+      <a href="https://www.google.com" rel="noreferrer" target="_blank">.</a>
       <Footer/>
     </div>
   );
